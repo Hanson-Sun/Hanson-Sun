@@ -28,8 +28,8 @@ I code sometimes, and I document my programming journey here, have fun exploring
 - Grinding leetcode! :slightly_smiling_face:
 
 ### Feel To Reach Out!
-- Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
-- Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/) 
+- :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
+- 💬 Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/) 
 
 <table border="0">
 
