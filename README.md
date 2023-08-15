@@ -25,9 +25,9 @@ I code sometimes, and I document my programming journey here, have fun exploring
 ### :thinking: Recently, I have been:
 - Seeking spring and summer 2024 internships :triumph: 
 - Stressing about school :sweat_smile:
-- Grinding leetcode! :slightly_smiling_face:
+- Grinding LeetCode! :slightly_smiling_face:
 
-### Feel To Reach Out!
+### Feel Free To Reach Out!
 - :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
 - 💬 Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/) 
 
