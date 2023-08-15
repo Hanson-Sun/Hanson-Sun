@@ -13,7 +13,7 @@
     <a href="https://github.com/hanson-sun?tab=repositories&language=Racket" target="_blank"><img alt="Racket" src="https://img.shields.io/badge/-Racket-5391FE?style=flat-square&logo=Racket&logoColor=white"></a>
     <a href="https://github.com/hanson-sun?tab=repositories&language=HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-5391FE?style=flat-square&logo=html5&logoColor=white"></a>
     <a href="https://github.com/hanson-sun?tab=repositories&language=jupyter+notebook" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-Jupyter-5391FE?style=flat-square&logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=jupyter+notebook" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-5391FE?style=flat-square&logo=java&logoColor=white"></a>
+    <a href="https://github.com/hanson-sun?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-5391FE?style=flat-square&logo=java&logoColor=white"></a>
 </p>
 
 ---
