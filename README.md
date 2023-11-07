@@ -18,7 +18,7 @@
 
 ---
 
-### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/), a student from BC, Canada! I currently study Computer Science with an intended minor in Data Science [@UBC](https://www.ubc.ca/). 
+### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I currently study Computer Science 👨🏻‍💻 with an intended minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
 
 I code sometimes, and I document my programming journey here, have fun exploring! If I'm not glued to my computer, you might catch me biking :biking_man: or practicing the saxophone :saxophone: (but not both).
 
@@ -33,19 +33,3 @@ I code sometimes, and I document my programming journey here, have fun exploring
     <td><img src = https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-sun&show_icons=true&theme=tokyonight&layout=compact></td>
  </tr>
 </table>
-
-
-<!--
-**Hanson-Sun/Hanson-Sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
