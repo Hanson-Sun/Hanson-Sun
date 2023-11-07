@@ -18,7 +18,7 @@
 
 ---
 
-### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/), a student from BC, Canada! I current study Computer Science with an intended minor in Data Science [@UBC](https://www.ubc.ca/). 
+### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/), a student from BC, Canada! I currently study Computer Science with an intended minor in Data Science [@UBC](https://www.ubc.ca/). 
 
 I code sometimes, and I document my programming journey here, have fun exploring! If I'm not glued to my computer, you might catch me biking :biking_man: or practicing the saxophone :saxophone: (but not both).
 
