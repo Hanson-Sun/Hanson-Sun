@@ -18,9 +18,9 @@
 
 ---
 
-### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I currently study Computer Science 👨🏻‍💻 with an intended minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
+### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I study Honours Computer Science 👨🏻‍💻 with a minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
 
-I code sometimes, and I document my programming journey here, have fun exploring! If I'm not glued to my computer, you might catch me biking :biking_man: xor practicing the saxophone :saxophone:.
+I code sometimes and document my programming journey here - have fun exploring! If I'm not glued to my computer, you might catch me biking :biking_man: xor practicing the saxophone :saxophone:.
 
 ### Feel Free To Reach Out!
 - :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
