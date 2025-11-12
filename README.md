@@ -1,26 +1,12 @@
 <picture>
  <img alt="YOUR-ALT-TEXT" src="assets/banner.jpg">
 </picture>
-<p align="center">
-    <a href="https://github.com/hanson-sun" target="_blank"><img alt="hanson-sun" src="https://badges.pufler.dev/visits/hanson-sun/hanson-sun?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/hanson-sun/hanson-sun" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/hanson-sun/hanson-sun?label=profile%20updated&style=flat-square"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/hanson-sun?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-5391FE?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-5391FE?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5391FE?style=flat-square&logo=JavaScript&logoColor=white"></a>
-    <!--<a href="https://github.com/hanson-sun?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-5391FE?style=flat-square&logo=LaTeX&logoColor=white"></a>-->
-    <a href="https://github.com/hanson-sun?tab=repositories&language=Racket" target="_blank"><img alt="Racket" src="https://img.shields.io/badge/-Racket-5391FE?style=flat-square&logo=Racket&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-5391FE?style=flat-square&logo=html5&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=jupyter+notebook" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-Jupyter-5391FE?style=flat-square&logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/hanson-sun?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-5391FE?style=flat-square&logo=java&logoColor=white"></a>
-</p>
 
 ---
 
 ### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I study Honours Computer Science 👨🏻‍💻 with a minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
 
-I code sometimes and document my programming journey here - have fun exploring! If I'm not glued to my computer, you might catch me biking :biking_man: xor practicing the saxophone :saxophone:.
+I code sometimes and document my programming journey here - have fun exploring! Check out my [website](hanson-sun.github.io) for more info
 
 ### Feel Free To Reach Out!
 - :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
