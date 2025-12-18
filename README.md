@@ -4,7 +4,7 @@
 
 ---
 
-### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I study Honours Computer Science 👨🏻‍💻 with a minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
+### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I study CS 👨🏻‍💻 with a minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
 
 I code sometimes and document my programming journey here - have fun exploring!
 
