@@ -13,10 +13,10 @@ I code sometimes and document my programming journey here - have fun exploring!
 - 💬 Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/)
 - my website: hanson-sun.github.io
 
-<table border="0">
+<!-- <table border="0">
 
  <tr>
     <td><img src = https://github-readme-stats.vercel.app/api?username=hanson-sun&show_icons=true&theme=tokyonight></td>
     <td><img src = https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-sun&show_icons=true&theme=tokyonight&layout=compact></td>
  </tr>
-</table>
+</table> -->
