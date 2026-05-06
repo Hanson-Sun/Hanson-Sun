@@ -4,14 +4,14 @@
 
 ---
 
-### Hey 👋, I'm [Hanson Sun](https://hanson-sun.github.io/)! I study CS 👨🏻‍💻 with a minor in Data Science 📊 [@UBC](https://www.ubc.ca/). 
+### hey 👋, i'm [Hanson Sun](https://hanson-sun.github.io/) and i'm a big fan of computer science
 
-I code sometimes and document my programming journey here - have fun exploring!
+I code sometimes and document my programming journey here---have fun exploring!
 
 ### Feel Free To Reach Out!
-- :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
-- 💬 Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/)
-- my website: [hanson-sun.github.io](https://hanson-sun.github.io/)
+- email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
+- start a linkedin game competition with me on [LinkedIn](https://www.linkedin.com/in/hanson-sun/)
+- check out my website [hanson-sun.github.io](https://hanson-sun.github.io/)
 
 <!-- <table border="0">
 
