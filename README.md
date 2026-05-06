@@ -11,7 +11,7 @@ I code sometimes and document my programming journey here - have fun exploring!
 ### Feel Free To Reach Out!
 - :email: Email me at [hansonsun.school@gmail.com](hansonsun.school@gmail.com)
 - 💬 Send me a message on [LinkedIn](https://www.linkedin.com/in/hanson-sun/)
-- my website: [hanson-sun.github.io](hanson-sun.github.io)
+- my website: [hanson-sun.github.io](https://hanson-sun.github.io/)
 
 <!-- <table border="0">
 
